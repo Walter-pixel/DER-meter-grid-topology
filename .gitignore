@@ -1,0 +1,5 @@
+data/
+output sample/
+.ipynb_checkpoint/
+D_r.npy
+D_x.npy
