@@ -133,6 +133,10 @@ def distance_from_child_to_parent(p, D, r, K_leaf, d_all):
     K_leaf.append(new_parent_lb)
     K_leaf.remove(p[0])
     K_leaf.remove(p[1])
+    # remove edges in d_all that link to the picked_pair children nodes
+    for key in d_all:
+        if key == p or key == (p[1],p[0]):
+            del d_all[key]
     
         
     # update the distance matrix by removing the picked pair (2 leaf nodes) 
