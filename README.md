@@ -28,6 +28,10 @@ pip install requirements.txt
 * Step1: Run <code> rebuilt_code_part1.ipynb </code>
 * Step1: Run <code> rebuilt_code_part2.ipynb </code>
 
+### Result
+
+* The estimated grid topology would look like below, where the root node is marked in red color:
+    ![Estimated grid topology](output sample/estimated topology.png)
 
 ## Authors
 
