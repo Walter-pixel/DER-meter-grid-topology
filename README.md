@@ -30,8 +30,11 @@ pip install requirements.txt
 
 ### Result
 
-* The estimated grid topology would look like below, where the root node is marked in red color:
-    ![alt text](https://github.com/Walter-pixel/DER-meter-grid-topology/blob/main/output sample/estimated topology.png?raw=true)
+
+<p align="center">
+<img src="output sample/estimated topology.png", style="width:450px;">
+<br> The estimated grid topology. The root node is marked in red color.
+</p>
 
 ## Authors
 
