@@ -1,4 +1,4 @@
-# Grid Topology Estimation Using (Destributed Energy Resources) DER meter data
+# Grid Topology Estimation Using (Destributed Energy Resources) DER Meter Data
 
 
 
