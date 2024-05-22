@@ -38,4 +38,4 @@ pip install requirements.txt
 
 ## Authors
 
-[@DWalter](walter.liao@monash.edu)
+[@Walter](walter.liao@monash.edu)
