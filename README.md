@@ -32,7 +32,7 @@ pip install requirements.txt
 
 
 <p align="center">
-<img src="output_sample/estimated topology.png", style="width:450px;">
+<img src="estimated_topology.png", style="width:450px;">
 <br> The estimated grid topology. The root node is marked in red color.
 </p>
 
