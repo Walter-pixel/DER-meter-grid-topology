@@ -27,9 +27,9 @@ main Idea:
 
 
 def main():
-    with open('D_r.npy','rb') as f:
+    with open('output sample/D_r.npy','rb') as f:
         D_r_matrix = np.load(f)
-    with open('D_x.npy','rb') as f:
+    with open('output sample/D_x.npy','rb') as f:
         D_x_matrix = np.load(f)
     K_leaf = [e for e in range(D_x_matrix.shape[0])]    
     d_old = convert_D_to_dict(D_matrix=D_x_matrix, init_K_leaf=K_leaf)
