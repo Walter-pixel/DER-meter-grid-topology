@@ -14,7 +14,7 @@ There are two steps involved to reconstruct the smart grid topology, assume the 
 
 ## Getting Started
 
-The smart meter raw data is places in ```data/ Load_Current_Voltage_PF.xlsx```
+The smart meter raw data is placed in ```data/ Load_Current_Voltage_PF.xlsx```
 
 ### Installing
 
